@@ -2,6 +2,7 @@
   "name": "aereni-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ateliersolidairesaintouen.github.io/aereni-frontend/",
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.23",
     "@testing-library/jest-dom": "^5.16.2",
