@@ -1,0 +1,46 @@
+[
+  {
+    "id": "fake-id-1",
+    "long": 48.9109,
+    "lat": 2.3352,
+    "pm25": 45,
+    "pm10": 10,
+    "temperature": 8,
+    "pressure": 42,
+    "humidity": 42,
+    "date": "09/02/2022 21:45"
+  },
+  {
+    "id": "fake-id-2",
+    "long": 48.92,
+    "lat": 2.333,
+    "pm25":20,
+    "pm10": 10,
+    "temperature": 8,
+    "pressure": 42,
+    "humidity": 42,
+    "date": "09/02/2022 21:45"
+  },
+  {
+    "id": "fake-id-3",
+    "long": 48.902,
+    "lat": 2.34,
+    "pm25": 10,
+    "pm10": 10,
+    "temperature": 8,
+    "pressure": 42,
+    "humidity": 42,
+    "date": "09/02/2022 21:45"
+  },
+  {
+    "id": "fake-id-4",
+    "long": 48.905,
+    "lat": 2.32,
+    "pm25": 80,
+    "pm10": 10,
+    "temperature": 8,
+    "pressure": 42,
+    "humidity": 42,
+    "date": "09/02/2022 21:45"
+  }
+]
