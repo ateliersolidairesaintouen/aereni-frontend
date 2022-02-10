@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aereni-frontend/static/css/main.34cd647e.css",
-    "main.js": "/aereni-frontend/static/js/main.0aa1ae63.js",
+    "main.js": "/aereni-frontend/static/js/main.e4a8dfb1.js",
     "static/js/787.93790e33.chunk.js": "/aereni-frontend/static/js/787.93790e33.chunk.js",
     "index.html": "/aereni-frontend/index.html",
     "main.34cd647e.css.map": "/aereni-frontend/static/css/main.34cd647e.css.map",
-    "main.0aa1ae63.js.map": "/aereni-frontend/static/js/main.0aa1ae63.js.map",
+    "main.e4a8dfb1.js.map": "/aereni-frontend/static/js/main.e4a8dfb1.js.map",
     "787.93790e33.chunk.js.map": "/aereni-frontend/static/js/787.93790e33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34cd647e.css",
-    "static/js/main.0aa1ae63.js"
+    "static/js/main.e4a8dfb1.js"
   ]
 }
