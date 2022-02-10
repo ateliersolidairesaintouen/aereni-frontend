@@ -14,7 +14,7 @@ function App() {
   useEffect(() => {
 
     // TODO fetch from API
-    fetch('/data/MARKERS.json', {
+    fetch(`${process.env.PUBLIC_URL}/data/MARKERS.json`, {
       headers: {
         'Content-Type': 'application/json',
         Accept: 'application/json',
